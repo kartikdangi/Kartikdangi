@@ -7,7 +7,7 @@
 </div>
 <br/>
 
-[![Website Badge](https://img.shields.io/badge/-Kartik-Portfolio-teal?style=flat-square&url=https://github.com/kartikdangi)](https://github.com/kartikdangi)
+[![Website Badge](https://img.shields.io/badge/-Kartik.Portfolio-teal?style=flat-square&url=https://github.com/kartikdangi)](https://github.com/kartikdangi)
 [![Linkedin Badge](https://img.shields.io/badge/-Kartik.linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyumn-jain-33b071189/)](https://www.linkedin.com/in/pradyumn-jain-33b071189/)
 [![Instagram Badge](https://img.shields.io/badge/-Kartik.instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kartik_dan.gi/)](https://www.instagram.com/pradyumn_25/)
 [![Gmail Badge](https://img.shields.io/badge/-Kartik.gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kartikdangi26@gmail.com)](mailto:pradyumn25jain@gmail.com)
